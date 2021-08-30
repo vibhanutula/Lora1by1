@@ -1,0 +1,14 @@
+.BodyBase {
+    background-image: url("Base.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Yeon Sung';
+    color: rgb(198, 236, 248);
+}
+
+#Lora{
+    border-radius: 50px;
+    border: lightblue 3px dashed;
+    height: 100px;
+    width: 100px;
+}
